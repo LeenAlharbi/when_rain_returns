@@ -28,12 +28,22 @@ This project forecasts the temperature and rainfall trends in Saudi Arabia's key
 
 Prophet models achieved validation MAPE under 10%, with seasonal breakdowns showing measurable improvement under the SGI scenario.
 
+##  🌏 Discover what the future holds in both scenarios 👇🏻
+
+
+           https://tinyurl.com/532faev5 
+
+
+
+
 ## 👥 Team Members
 
 - **Leen Alharbi** — Project Lead & Data Scientist  
 - **Fawzia Ibrahim** — Modeling & Experimentation & streamlit 
 - **Dareen Alshaibani** — Modeling & Model Validation  
 - **Aisha Alenzi** — FastAPI Integration & Support
+
+
 
 ## 🚀 How to Run
 
