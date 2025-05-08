@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+prophet
+fastapi
+matplotlib
+uvicorn
+darts
+statsmodels
+plotly
+plotly>=5.0.0
